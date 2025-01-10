@@ -1,6 +1,7 @@
 # British Airways Review Dashboard  
 
-An interactive dashboard built using **Tableau** to analyze and visualize customer reviews and ratings for British Airways. This project provides insights into key metrics with a user-friendly interface for exploring data through various filters and parameters.  
+An interactive dashboard built using **Tableau** to analyze and visualize customer reviews and ratings for British Airways. This project provides insights into key metrics with a user-friendly interface for exploring data through various filters and parameters. 
+https://github.com/user-attachments/assets/c2a20504-2ad4-47a3-953f-25a1265b3d66
 
 ## Data Sources  
 - **Countries**: Contains information about the countries referenced in the reviews.  
@@ -51,4 +52,4 @@ This dashboard allows users to:
 ## License  
 This project is licensed under the MIT License. Feel free to use and adapt it as needed.  
 
-https://github.com/user-attachments/assets/c2a20504-2ad4-47a3-953f-25a1265b3d66
+
