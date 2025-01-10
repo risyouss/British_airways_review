@@ -49,9 +49,5 @@ This dashboard allows users to:
 4. Explore the KPIs, map, line chart, and bar charts for detailed insights.  
 
 ## License  
-This project is licensed under the MIT License. Feel free to use and adapt it as needed.  
-
----
-
-Feel free to reach out if you have any questions or need further details!  
-![demo](https://github.com/risyouss/British_airways_review/blob/main/British%20Airways%20dashborad.mp4)
+This project is licensed under the MIT License. Feel free to use and adapt it as needed.   
+![Watch the video](https://raw.githubusercontent.com/risyouss/British_airways_review/blob/main/British%20Airways%20dashborad.mp4)
