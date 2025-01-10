@@ -49,5 +49,6 @@ This dashboard allows users to:
 4. Explore the KPIs, map, line chart, and bar charts for detailed insights.  
 
 ## License  
-This project is licensed under the MIT License. Feel free to use and adapt it as needed.   
-https://github.com/user-attachments/assets/c2a20504-2ad4-47a3-953f-25a1265b3d66
+This project is licensed under the MIT License. Feel free to use and adapt it as needed.  
+
+![demo](https://github.com/user-attachments/assets/c2a20504-2ad4-47a3-953f-25a1265b3d66)
