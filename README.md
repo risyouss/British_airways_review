@@ -51,4 +51,4 @@ This dashboard allows users to:
 ## License  
 This project is licensed under the MIT License. Feel free to use and adapt it as needed.  
 
-![demo](https://github.com/user-attachments/assets/c2a20504-2ad4-47a3-953f-25a1265b3d66)
+https://github.com/user-attachments/assets/c2a20504-2ad4-47a3-953f-25a1265b3d66
