@@ -50,4 +50,4 @@ This dashboard allows users to:
 
 ## License  
 This project is licensed under the MIT License. Feel free to use and adapt it as needed.   
-[https://github.com/risyouss/British_airways_review/blob/main/British%20Airways%20dashborad.mp4](https://github.com/risyouss/British_airways_review/issues/1#issue-2779737337)
+https://github.com/user-attachments/assets/c2a20504-2ad4-47a3-953f-25a1265b3d66
