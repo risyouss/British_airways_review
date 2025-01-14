@@ -1,4 +1,4 @@
-# British Airways Review Dashboard  
+# British Airways Review Dashboard ![View in Tableau Cloud](https://prod-uk-a.online.tableau.com/t/risyoussama-a081feae9e/views/British_Airways/Dashboard1?:origin=card_share_link&:embed=n)  
 
 An interactive dashboard built using **Tableau** to analyze and visualize customer reviews and ratings for British Airways. This project provides insights into key metrics with a user-friendly interface for exploring data through various filters and parameters.<br> 
 
